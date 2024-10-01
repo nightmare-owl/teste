@@ -10,7 +10,7 @@ O Node.js é necessário para gerenciar pacotes e dependências como o Tailwind 
 
 Baixe e instale o Node.js através do site oficial: https://nodejs.org
 Verifique a instalação no terminal com o comando:
-![alt text](image.png)
+![alt text](./img_readme/image.png)
 
 2.2. Editor de Código
 Escolha um editor de código de sua preferência, como:
@@ -27,44 +27,44 @@ Agora que temos tudo configurado, vamos para o passo a passo de criação do pro
 Abra o terminal e navegue até a pasta onde deseja criar o projeto.
 
 Inicialize um novo projeto Node.js com o seguinte comando:
-![alt text](image-4.png)
+![alt text](./img_readme/image-4.png)
 
 Isso gerará o arquivo package.json que gerenciará nossas dependências.
 
 Passo 2 - Instalando o Tailwind CSS
 Instale o Tailwind CSS, PostCSS e Autoprefixer:
-![alt text](image-2.png)
+![alt text](./img_readme/image-2.png)
 
 Geração do arquivo de configuração do Tailwind:
 
-![alt text](image-3.png)
+![alt text](./img_readme/image-3.png)
 
 Isso cria o arquivo tailwind.config.js que gerenciará a personalização do Tailwind.
 
 Passo 3 - Configuração do Tailwind
 No arquivo tailwind.config.js, adicione:
-![alt text](image-1.png)
+![alt text](./img_readme/image-1.png)
 
 Passo 4 - Criando o CSS Base
 Crie a pasta src e, dentro dela, o arquivo input.css.
 Adicione o seguinte no input.css:
-![alt text](image-5.png)
+![alt text](./img_readme/image-5.png)
 
 Passo 5 - Configuração do Script de Build no Local
 No package.json, adicione o seguinte script:
-![alt text](image-6.png)
+![alt text](./img_readme/image-6.png)
 
 Passo 6 - Criando o Formulário em HTML
 Na raiz do projeto, crie o arquivo index.html com a mesma estrutura usada no Codespaces (conforme explicado anteriormente).
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
+![alt text]./img_readme/(image-7.png)
+![alt text](./img_readme/image-8.png)
+![alt text](./img_readme/image-9.png)
 
 Passo 7 - Executando o Build no Ambiente Local
 Execute o comando de build no terminal:
 
-![alt text](image-10.png)
+![alt text](./img_readme/image-10.png)
 
 Passo 8 - Visualizando o Projeto Localmente
 Abra o arquivo index.html no navegador para visualizar o formulário.
-![alt text](image-11.png)
+![alt text](./img_readme/image-11.png)
