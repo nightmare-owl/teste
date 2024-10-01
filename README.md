@@ -10,7 +10,7 @@ O Node.js é necessário para gerenciar pacotes e dependências como o Tailwind 
 
 Baixe e instale o Node.js através do site oficial: https://nodejs.org
 Verifique a instalação no terminal com o comando:
-[imagem]
+![alt text](image.png)
 
 2.2. Editor de Código
 Escolha um editor de código de sua preferência, como:
@@ -20,37 +20,51 @@ VSCode: Baixe em https://code.visualstudio.com/
 Instalaremos o Tailwind CSS através do npm (gerenciador de pacotes do Node.js). Vamos instalar também o PostCSS e o Autoprefixer para processar o CSS.
 
 3. Passo-a-Passo para o Desenvolvimento
+
 Agora que temos tudo configurado, vamos para o passo a passo de criação do projeto.
 
-        Passo 1 - Inicializando o Projeto
-        Abra o terminal e navegue até a pasta onde deseja criar o projeto.
-        Inicialize um novo projeto Node.js:
-        [imagem]
-        Isso gerará o arquivo package.json que gerenciará nossas dependências.
+3.1 - Inicializando o Projeto
+Abra o terminal e navegue até a pasta onde deseja criar o projeto.
 
-        Passo 2 - Instalando o Tailwind CSS
-        Instale o Tailwind CSS, PostCSS e Autoprefixer:
+Inicialize um novo projeto Node.js com o seguinte comando:
+![alt text](image-4.png)
 
-        Geração do arquivo de configuração do Tailwind:
+Isso gerará o arquivo package.json que gerenciará nossas dependências.
 
-        Isso cria o arquivo tailwind.config.js que gerenciará a personalização do Tailwind.
+Passo 2 - Instalando o Tailwind CSS
+Instale o Tailwind CSS, PostCSS e Autoprefixer:
+![alt text](image-2.png)
 
-        Passo 3 - Configuração do Tailwind
-        No arquivo tailwind.config.js, adicione:
+Geração do arquivo de configuração do Tailwind:
 
-        Passo 4 - Criando o CSS Base
-        Crie a pasta src e, dentro dela, o arquivo input.css.
-        Adicione o seguinte no input.css:
+![alt text](image-3.png)
 
-        Passo 5 - Configuração do Script de Build no Local
-        No package.json, adicione o seguinte script:
+Isso cria o arquivo tailwind.config.js que gerenciará a personalização do Tailwind.
 
-        Passo 6 - Criando o Formulário em HTML
-        Na raiz do projeto, crie o arquivo index.html com a mesma estrutura usada no Codespaces (conforme explicado anteriormente).
+Passo 3 - Configuração do Tailwind
+No arquivo tailwind.config.js, adicione:
+![alt text](image-1.png)
 
-        Passo 7 - Executando o Build no Ambiente Local
-        Execute o comando de build no terminal:
+Passo 4 - Criando o CSS Base
+Crie a pasta src e, dentro dela, o arquivo input.css.
+Adicione o seguinte no input.css:
+![alt text](image-5.png)
 
-        Passo 8 - Visualizando o Projeto Localmente
-        Abra o arquivo index.html no navegador para visualizar o formulário.
+Passo 5 - Configuração do Script de Build no Local
+No package.json, adicione o seguinte script:
+![alt text](image-6.png)
 
+Passo 6 - Criando o Formulário em HTML
+Na raiz do projeto, crie o arquivo index.html com a mesma estrutura usada no Codespaces (conforme explicado anteriormente).
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
+
+Passo 7 - Executando o Build no Ambiente Local
+Execute o comando de build no terminal:
+
+![alt text](image-10.png)
+
+Passo 8 - Visualizando o Projeto Localmente
+Abra o arquivo index.html no navegador para visualizar o formulário.
+![alt text](image-11.png)
