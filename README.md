@@ -1,4 +1,7 @@
 Tutorial: Desenvolvendo um Formulário de Cadastro Responsivo com Tailwind CSS
+
+Grupo: Estevão Castilho, Gabriel Alves, Lucas Luidy, Mateus Martins, João Gabriel
+
 1. Descrição do Objetivo
 O objetivo deste tutorial é ensinar como desenvolver um formulário de cadastro responsivo utilizando o Tailwind CSS, um framework de CSS utilitário. Vamos construir um formulário simples, mas completo, que será fácil de customizar e manter, além de ser responsivo para diferentes tamanhos de tela (desktop e mobile).
 
